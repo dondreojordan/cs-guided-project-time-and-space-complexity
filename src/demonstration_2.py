@@ -21,6 +21,8 @@ complexities and think about the tradeoffs between the solutions.*
 """
 
 # https://www.kite.com/python/answers/how-to-check-for-duplicates-in-a-list-in-python
+# .any() link: https://www.kite.com/python/docs/builtins.any
+# .count() link: https://www.kite.com/python/docs/builtins.list.count
 # def contains_duplicates(nums):
 #     if any(nums.count(element) > 1 for element in nums):
 #         return True
